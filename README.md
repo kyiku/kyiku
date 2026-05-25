@@ -1,19 +1,4 @@
 # Kyiku
-
-**Full Stack Developer** | Building scalable applications with modern technologies
-
----
-
-## About Me
-
-I'm a software engineer passionate about creating efficient and maintainable solutions. I specialize in full-stack development with a focus on web technologies and data-driven applications.
-
-- 🔭 Currently working on full-stack web applications
-- 🌱 Continuously learning and exploring new technologies
-- 💡 Interested in software architecture, clean code, and best practices
-
----
-
 ## Tech Stack
 
 ### Languages
